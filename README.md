@@ -2,9 +2,11 @@
 
 ![slide1](images/slide1.jpg)
 
-This repository contains the training material for the [SustAIn.Brussels training track on Advanced AI workflows with LLMs](https://www.sustain.brussels/fr_BE/event/building-advanced-ai-workflows-with-llms-187/register). The track took place between the 20th of April 2026 and the 22nd of April 2026, at [FARI](https://www.fari.brussels/) (12 hours in three half-days).
+This repository contains the training material for the [SustAIn.Brussels training track on Advanced AI workflows with LLMs](https://www.sustain.brussels/fr_BE/event/building-advanced-ai-workflows-with-llms-187/register). 
 
-The slides are available [in PDF format](https://github.com/Yannael/gen-ai-sustain-brussels/tree/main/Part_1_Intro_ChatGPT_AI_Assistants).
+The track took place between the 20th of April 2026 and the 22nd of April 2026, at [FARI](https://www.fari.brussels/) (12 hours in three half-days).
+
+The slides are available [in PDF format](2026_Sustain_AI_advanced_workflows.pdf).
 
 The hands-on sessions relied on the following notebooks :
 
