@@ -22,7 +22,7 @@ The hands-on sessions relied on the following notebooks :
 
 **API**
 
-- "Hello world OpenAI": Connect to the OpenAI API and get responses from an OpenAI model [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels-2604/blob/main/notebooks/5_HelloWorld_OpenAI.ipynb)
+- Hello world OpenAI [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels-2604/blob/main/notebooks/5_HelloWorld_OpenAI.ipynb)
 - JSON output with the OpenAI API [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels-2604/blob/main/notebooks/6_JSON_Output.ipynb)
 - OpenRouter: Access multiple LLMs through a single API [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels-2604/blob/main/notebooks/7_OpenRouter.ipynb)
 - Benchmarking LLMs [<img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" />](https://colab.research.google.com/github/Yannael/gen-ai-sustain-brussels-2604/blob/main/notebooks/8_Benchmarking.ipynb)
