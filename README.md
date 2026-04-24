@@ -1,6 +1,6 @@
 # SustAIn.Brussels training: Advanced AI workflows with LLMs
 
-![slide1](images/slide1.png)
+![slide1](images/slide1.jpg)
 
 This repository contains the training material for the [SustAIn.Brussels training track on Advanced AI workflows with LLMs](https://www.sustain.brussels/fr_BE/event/building-advanced-ai-workflows-with-llms-187/register). The track took place between the 20th of April 2026 and the 22nd of April 2026, at [FARI](https://www.fari.brussels/) (12 hours in three half-days).
 
